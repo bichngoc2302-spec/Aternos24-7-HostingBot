@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bott2322.aternos.me",
+    "ip": "bott2322.aternos.me:13122",
     "port": 13122,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
