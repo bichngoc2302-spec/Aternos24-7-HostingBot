@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bott2322.aternos.me:13122",
+    "ip": "bott2322.aternos.me",
     "port": 13122,
     "version": "",
     "try-creative": false
